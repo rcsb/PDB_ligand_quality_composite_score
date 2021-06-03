@@ -9,5 +9,5 @@ Column description:\
 "clash_per_atom": Inter-molecular clashes on a ligand structure divided by the number of non-hydrogen atoms of the ligand\
 "formula_weight": Formula weight\
 "refine.ls_d_res_high": High resolution limit of the PDB structure with the ligand\
-"fit_pc1": 1st princinpal component of RSR and RSCC\
-"geo_pc1": 1st princinpal component of mogul_bonds_rmsz and mogul_angles_rmsz
+"fit_pc1": 1st principal component of RSR and RSCC\
+"geo_pc1": 1st principal component of mogul_bonds_rmsz and mogul_angles_rmsz
