@@ -1,6 +1,6 @@
 # PDB_ligand_quality_composite_score
 (1) Description of "PCA_PDB_references.csv"\
-Reference data for multivariate data analysis in constructing PDB ligand quality composite score\
+Reference data for multivariate data analysis in constructing PDB ligand quality composite ranking score\
 Column description:\
 "pdb_ligand": PDB ID and CCD ID of the ligand instance. Multiple instances of the same compound in the same structure are averaged in calculating the values of quality indicators\
 "rsr": Real space R factor\
