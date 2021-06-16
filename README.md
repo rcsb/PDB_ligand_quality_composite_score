@@ -12,7 +12,7 @@ Column description:\
 "refine.ls_d_res_high": High resolution limit of the PDB structure with the ligand\
 "fit_pc1": 1st principal component of RSR and RSCC\
 "geo_pc1": 1st principal component of mogul_bonds_rmsz and mogul_angles_rmsz\
-Usage: This reference data set sets up a scale of quality scores from worst to best for fit_pc1 and geo_pc1. Any particular ligand's fit_pc1 and geo_pc1 scores are to be compared with this reference to determin its quality standing percentile, i.e. composite ranking score.\
+Usage: This reference data set sets up a scale of quality scores from worst to best for fit_pc1 and geo_pc1. Any particular ligand's fit_pc1 and geo_pc1 scores are to be compared with this reference to determin its quality standing percentile, i.e. composite ranking scores for fitting and geometry.\
 \
 (2) Description of "PDB_ligands_raw_part_#.csv"\
 The complete raw data (all ligand validation data of PDB archive as of Sept 2020). It is too big for GitHub, so it is split into three pieces.\
