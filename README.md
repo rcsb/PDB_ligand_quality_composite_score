@@ -30,4 +30,4 @@ Column description: (in addition to the above)\
 "chiral-outlier": Number of stereochemical outliers\
 \
 (3) Description of "calculateCompositeScore.py"\
-The python script to calculate composite ranking score of ligand quality. The script takes input of one ligand instance’s quality data (under “main” function), with an example embedded in it. User can modify the script by provide the validation data for a particular ligand instance. The ligand validation data for the script input can be obtained from any PDB structure’s publicly available PDF or XML formatted validation report. 
+The python script to calculate composite ranking score of ligand quality. The script takes input of one ligand instance’s quality data (under “main” function), with an example embedded in it. User can modify the script by provide the validation data for a particular ligand instance. The ligand validation data for the script input can be obtained from any PDB structure’s publicly available PDF or XML formatted validation report. Please refer to the comments inside the script on how to use.
