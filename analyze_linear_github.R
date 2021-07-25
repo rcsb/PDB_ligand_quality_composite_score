@@ -1,3 +1,4 @@
+## choose 500 samples from reference data set and plot linear or non-linear relationship
 library(ggplot2)
 selectSample <- function(data, n){
     set.seed(1)
