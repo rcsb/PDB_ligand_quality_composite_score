@@ -33,5 +33,4 @@ Column description: (in addition to the above)\
 The python script to calculate composite ranking score of ligand quality. The script takes input of one ligand instance’s quality data (under “main” function), with an example embedded in it. Users can modify the script by providing the validation data for a particular ligand instance. The ligand validation data for the script input can be obtained from any PDB structure’s publicly available PDF or XML formatted validation report. Please refer to the comments inside the script on how to use.\
 
 (4) Description of "analyze_linear_github.R"\
-Read "PCA_PDB_references.csv", select 200 sample with fixed seed setting, draw lienar and nonlinear (local polynomial) fitting curve with ggplot2. 
-
+Read "PCA_PDB_references.csv", select 500 sample with fixed seed setting, draw lienar and non-linear (local polynomial) fitting curve with ggplot2. 
