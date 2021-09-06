@@ -34,3 +34,5 @@ The python script to calculate composite ranking score of ligand quality. The sc
 
 (4) Description of "analyze_linear_github.R"\
 Read "PCA_PDB_references.csv", select 500 sample with fixed seed setting, draw lienar and non-linear (local polynomial) fitting curve with ggplot2. 
+(5) Description of "non-LOI-blocklist.tsv"\
+The CCD ID list of ligand that are usually non-functional
